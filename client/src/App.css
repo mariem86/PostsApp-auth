@@ -1,0 +1,30 @@
+.avatar {
+    z-index: 1;
+    border-radius: 50%;
+    background-color: rgba(49, 80, 216, 1);
+    color: white;
+    border: 10px solid white;
+    font-size: 38px;
+    text-align: center;
+    padding: 23px;
+    margin: 20px auto;
+    width: 120px;
+  }
+  
+  .card {
+    margin: 10px;
+  }
+  
+  .card-back {
+    position: absolute;
+    right: 0;
+    top: 0;
+    height: 35%;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.041);
+  }
+  
+
+
+
+
